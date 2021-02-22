@@ -1,0 +1,167 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.navbar {
+    background-color: #2CA78D !important;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+nav ul li a{
+        transition: all .5s !important;
+}
+header {
+    width: 100%;
+    height: 100vh;
+    background: url(../images/bg.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .4);
+    background-size: 100%;
+}
+nav ul li a:hover{
+    color: #F98B66 !important;
+}
+.first{
+    background-color: rgba(44, 167, 141, 0.3);
+    color: white;
+    transition: all .5s;
+}
+.second{
+    background-color: rgba(44, 167, 141, 0.3);
+    color: white;
+    transition: all .5s;
+}
+.third{
+    background-color: rgba(44, 167, 141, 0.3);
+    color: white;
+    transition: all .5s;
+}
+.fourth{
+    background-color: rgba(44, 167, 141, 0.3);
+    color: white;
+    transition: all .5s;
+}
+.fifth{
+    background-color: rgba(44, 167, 141, 0.3);
+    color: white;
+    transition: all .5s;
+}
+.first:hover{
+    background-color: rgba(249, 139, 102, 0.6);
+}
+.second:hover{
+    background-color: rgba(249, 139, 102, 0.6);
+}
+.third:hover{
+    background-color: rgba(249, 139, 102, 0.6);
+}
+.fourth:hover{
+    background-color: rgba(249, 139, 102, 0.6);
+}
+.fifth:hover{
+    background-color: rgba(249, 139, 102, 0.6);
+}
+.about h5
+{
+    color: #F98B66;
+}
+.about hr
+{
+    width: 50%;
+}
+.about2Text
+{
+    background-color: #2CA78D;
+    color: white;
+    min-height: 250px;
+}
+.about2Text1
+{
+    background-color: #F98B66;
+    color: white;
+     min-height: 250px;
+}
+.about2Img{
+    height: 100%;
+    background: url(../images/about-pic2.jpg) no-repeat;
+    background-size: cover;
+     min-height: 250px;
+}
+.about2Img2{
+    height: 100%;
+    background: url(../images/about-pic1.jpg) no-repeat;
+    background-size: cover;
+     min-height: 250px;
+}
+.about2Img3{
+    height: 100%;
+    background: url(../images/about-pic3.jpg) no-repeat;
+    background-size: cover;
+    min-height: 250px;
+}
+.process{
+    background: url(../images/process-bg.jpg) no-repeat ;
+    background-size: cover;
+    min-height: 600px;
+}
+.pro1
+{
+    background: url(../images/p-bg1.jpg) no-repeat ;
+    background-size: 100%;
+    font-size: 40px;
+}
+.pro2
+{
+    background: url(../images/p-bg2.jpg) no-repeat ;
+    background-size: 100%;
+    font-size: 40px;
+}
+.pro3
+{
+    background: url(../images/p-bg3.jpg) no-repeat ;
+    background-size: 100%;
+    font-size: 40px;
+}
+.pro4
+{
+    background: url(../images/p-bg4.jpg) no-repeat ;
+    background-size: 100%;
+    font-size: 40px;
+}
+.blog .hh
+{
+    height: 600px;
+}
+
+.protifolio img
+{
+    width: 100%;
+}
+.proFoot
+{
+    background-color: #F98B66;
+}
+.carousel-item img
+{
+    height: 300px;
+}
+.map{
+    min-height: 450px;
+}
+.details{
+height: 100%;
+background-color: #F98B66;
+}
+footer
+{
+    background-color: black;
+}
